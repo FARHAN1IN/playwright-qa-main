@@ -5,7 +5,7 @@ shared public demo at:
 
 | Surface    | URL                                                          |
 | ---------- | ------------------------------------------------------------ |
-| UI (SPA)   | `https://conduit.bondaracademy.com/` (Angular 18, CSR)      |
+| UI (SPA)   | `https://conduit.bondaracademy.com/`       |
 | REST API   | `https://conduit-api.bondaracademy.com/api` (RealWorld spec) |
 
 The framework covers five PRD scenarios — Create / Edit / Delete Article,
