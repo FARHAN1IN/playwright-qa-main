@@ -1,0 +1,2 @@
+[auth.setup] user=u_1786703181506-f4fx
+[auth.setup] wrote C:\Users\Hamada Salim G-Trd\Downloads\playwright-qa-main (1)\playwright-qa-main\auth\user.json (token len=155)
