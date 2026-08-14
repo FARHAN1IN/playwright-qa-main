@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# Playwright
+/playwright-report/
+/test-results/
+/playwright/.cache/
+/blob-report/
+/playwright/.last-run.json
+
+# Allure
+/allure-results/
+/allure-report/
+
+# Auth state (per-run secrets)
+/auth/*.json
+!/auth/.gitkeep
+
+# Exploration artifacts
+/.exploration/screenshots/
